@@ -2,17 +2,17 @@
     {
         "p_rel_url": "hemanthctech-demo/hemanth_endtoend/refs/heads/main/AdventureWorks_Calendar.csv",
         "p_sink_folder": "AdventureWorks_Calendar",
-        "P_silk_file": "AdventureWorks_Calendar.csv"
+        "P_sink_file": "AdventureWorks_Calendar.csv"
     },
     {
         "p_rel_url": "hemanthctech-demo/hemanth_endtoend/refs/heads/main/AdventureWorks_Product_Categories.csv",
         "p_sink_folder": "AdventureWorks_Product_Categories",
-        "P_silk_file": "AdventureWorks_Product_Categories.csv"
+        "P_sink_file": "AdventureWorks_Product_Categories.csv"
     },
     {
         "p_rel_url": "hemanthctech-demo/hemanth_endtoend/refs/heads/main/AdventureWorks_Returns.csv",
         "p_sink_folder": "AdventureWorks_Returns",
-        "P_silk_file": "AdventureWorks_Returns.csv"
+        "P_sink_file": "AdventureWorks_Returns.csv"
     }
 
 ]
