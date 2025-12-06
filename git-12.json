@@ -1,0 +1,9 @@
+[
+    
+    {
+        "p_rel_url": "hemanthctech-demo/hemanth_endtoend/refs/heads/main/AdventureWorks_Customers.csv",
+        "p_sink_folder": "AdventureWorks_Customers",
+        "P_sink_file": "AdventureWorks_Customers.csv"
+    }
+
+]
